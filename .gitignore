@@ -5,3 +5,4 @@ data/records/
 models/centernet_hg104_1024x1024_coco17_tpu-32/
 models/faster_rcnn_resnet50_v1_1024x1024_coco17_tpu-8/
 models/centernet_hg104_512x512_coco17_tpu-8/
+models/ssd_resnet50_v1_fpn_1024x1024_coco17_tpu-8/
