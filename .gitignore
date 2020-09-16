@@ -1,0 +1,6 @@
+data/FullIJCNN2013
+data/input_img_vis_test
+data/jpg_FullIJCNN2013
+data/records/
+models/centernet_hg104_1024x1024_coco17_tpu-32/
+models/faster_rcnn_resnet50_v1_1024x1024_coco17_tpu-8/
