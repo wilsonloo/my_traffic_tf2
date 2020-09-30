@@ -1,43 +1,43 @@
-1 speed limit 20
-2 speed limit 30
-3 speed limit 50
-4 speed limit 60
-5 speed limit 70
-6 speed limit 80
-7 restriction ends 80
-8 speed limit 100
-9 speed limit 120
-10 no overtaking
-11 no overtaking (trucks)
-12 priority at next intersection
-13 priority road
-14 give way
+1 speed_limit_20
+2 speed_limit_30
+3 speed_limit_50
+4 speed_limit_60
+5 speed_limit_70
+6 speed_limit_80
+7 restriction_ends_80
+8 speed_limit_100
+9 speed_limit_120
+10 no_overtaking
+11 no_overtaking(trucks)
+12 priority_at_next_intersection
+13 priority_road
+14 give_way
 15 stop
-16 no traffic both ways
-17 no trucks
-18 no entry
+16 no_traffic_both_ways
+17 no_trucks
+18 no_entry
 19 danger
-20 bend left
-21 bend right
+20 bend_left
+21 bend_right
 22 bend
-23 uneven road
-24 slippery road
-25 road narrows
+23 uneven_road
+24 slippery_road
+25 road_narrows
 26 construction
-27 traffic signal
-28 pedestrian crossing
-29 school crossing
-30 cycles crossing
+27 traffic_signal
+28 pedestrian_crossing
+29 school_crossing
+30 cycles_crossing
 31 snow
 32 animals
-33 restriction ends
-34 go right
-35 go left
-36 go straight
-37 go right or straight
-38 go left or straight
-39 keep right
-40 keep left
+33 restriction_ends
+34 go_right
+35 go_left
+36 go_straight
+37 go_right_or_straight
+38 go_left_or_straight
+39 keep_right
+40 keep_left
 41 roundabout
-42 restriction ends (overtaking)
-43 restriction ends (overtaking (trucks))
+42 restriction_ends(overtaking)
+43 restriction_ends(overtaking(trucks))
